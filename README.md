@@ -1,1 +1,1 @@
-# Data-Science-Projects
+# Bank-Term-Deposit-Prediction-Model
